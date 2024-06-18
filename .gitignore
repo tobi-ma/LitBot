@@ -1,0 +1,11 @@
+/0_archiv/
+/additional_literature/
+/CACHE/
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+__pycache__/
+*.pyc
+*.pyo
+*.json
